@@ -1,0 +1,12 @@
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.exe
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.deps.json
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.runtimeconfig.json
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.runtimeconfig.dev.json
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.dll
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\bin\Debug\netcoreapp3.1\GenericSorts.pdb
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.csproj.CoreCompileInputs.cache
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.AssemblyInfoInputs.cache
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.AssemblyInfo.cs
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.dll
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.pdb
+C:\Users\Arvid\source\repos\GenericSorts\GenericSorts\obj\Debug\netcoreapp3.1\GenericSorts.genruntimeconfig.cache
